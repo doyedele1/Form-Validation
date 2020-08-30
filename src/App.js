@@ -1,3 +1,4 @@
+// import react and the css file
 import React, { Component } from "react";
 import "./App.css";
 
